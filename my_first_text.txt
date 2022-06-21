@@ -1,3 +1,6 @@
 My First Text File
 
 Hello Message
+
+
+local Message
